@@ -89,4 +89,7 @@ Challenges encountered during the analysis included:
 - Formatting data types appropriately
 - Selecting suitable visualization techniques
 
+#### Tableau Dashboard Link - [Hotel Booking Analysis](https://public.tableau.com/app/profile/abhay.kumar/viz/HotelBookings_16950469340750/DashboardHotelBookingAnalysisDashboard)
+
 For more detailed insights, please explore the Tableau dashboard provided in this repository.
+
