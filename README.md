@@ -1,5 +1,7 @@
 # Hotel-Booking-Analysis-Using-Tableau
 
+![Dashboard_Hotel Booking Analysis.png](https://github.com/meabhaykr/Hotel-Booking-Analysis-Using-Tableau/blob/main/Dashboard_Hotel%20Booking%20Analysis.png)
+
 This repository contains a Tableau dashboard for exploring hotel booking trends based on a dataset of hotel reservations. The dashboard allows users to conduct exploratory data analysis (EDA) to derive valuable insights into various factors affecting hotel bookings.
 
 ## Dataset
