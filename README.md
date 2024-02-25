@@ -88,7 +88,3 @@ Challenges encountered during the analysis included:
 - Selecting suitable visualization techniques
 
 For more detailed insights, please explore the Tableau dashboard provided in this repository.
-
----
-
-Feel free to enhance this readme with additional details or instructions as needed.
